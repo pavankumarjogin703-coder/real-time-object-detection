@@ -102,16 +102,10 @@ python3 main.py
 
 ---
 
-# 📈 Future Improvements
+# 📈 Upcoming Improvements
 
 - Object Tracking
 - Streamlit Dashboard
 - Video Detection
 - Custom Model Training
 - AI Alert System
-
----
-
-# 👨‍💻 Author
-
-Built using Computer Vision and AI 🚀
